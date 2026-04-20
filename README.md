@@ -13,21 +13,28 @@
 - Databases (MySQL, PostgreSQL, SQL Server)
 
 ## 📂 Projects
-- **County Assembly Management System**  
-  Web-based system built using HTML, CSS, JavaScript, PHP, and SQL.
 
-- **Portfolio Website**  
-  Personal website showcasing my skills and projects.  
-  🔗 https://savariaron.netlify.app/
+### 🔹 Yavicon Group Website
+- 🌐 https://yavicongroup.netlify.app  
+- Company website showcasing services and business profile  
+- Built using HTML, CSS, JavaScript  
 
-- **Saffrons Tech Solutions Website**  
-  Developed a business website for IT consultancy services.
+### 🔹 Saffrons Tech Solutions Website
+- 🌐 https://saffronstech.netlify.app  
+- IT consultancy website for networking, cybersecurity, and web services  
+- Built using HTML, CSS, JavaScript  
 
-- **Yavicon Ltd Website (In Progress)**  
-  Company service showcase platform.
+### 🔹 SafClock Web App
+- 🌐 https://safclock.netlify.app  
+- Simple web-based clock application  
+- Built using JavaScript  
 
-- **Business Brochure Website (In Progress)**  
-  Static website for business service presentation.
+### 🔹 Portfolio Website
+- 🌐 https://savariaron.netlify.app/  
+- Personal portfolio showcasing my work and skills  
+
+### 🔹 County Assembly Management System
+- Web-based system (HTML, CSS, JavaScript, PHP, SQL)
 
 ## 💼 Experience
 - Technical Support Specialist Intern – Makueni County Government (2026–Present)
