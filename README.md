@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aron Savari 👋
 
-<!--
-**savarikingoo/savarikingoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 IT Support Specialist & Web Developer
+- 🌐 Skilled in Networking, Cybersecurity & Data Analysis
+- 🎓 BSc Computer Science
+- 📍 Nairobi, Kenya
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Networking & Security (Cisco, CompTIA)
+- Web Development (HTML, CSS, JavaScript)
+- Databases (MySQL, Oracle)
+- IT Support & Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- ASK Cart E-commerce Website
+- Portfolio Website (In Progress)
+- Networking & Cybersecurity Labs
+
+## 📫 Contact Me
+- 📧 Email: savarikingoo@gmail.com
+- 📱 Phone: 0797248710
+- 🔗 LinkedIn: https://www.linkedin.com/in/savari-kingoo-b54b02292/
